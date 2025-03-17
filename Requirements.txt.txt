@@ -1,0 +1,5 @@
+Python environment setup.
+Translation library installation (e.g., googletrans).
+Input text and target language specification.
+Output display of translated text.
+Optional: error handling for API issues.
